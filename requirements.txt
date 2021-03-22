@@ -1,0 +1,7 @@
+git+https://github.com/python-escpos/python-escpos
+pyusb
+Pillow
+qrcode
+pyserial
+python-barcode
+discord
